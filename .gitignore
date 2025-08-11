@@ -1,0 +1,6 @@
+logs/*
+**/__pycache__/
+lib/*
+config/results/
+.cmdenv-log
+cmd/start.sh
